@@ -49,4 +49,4 @@ es el angulo del numero complejo
 parte imaginaria, donde se retorna la fase del complejo
 
 
-![](http://a.com/dog.jpg)
+![alt text](http://a.com/dog.jpg)
