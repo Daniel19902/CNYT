@@ -47,3 +47,6 @@ es el angulo del numero complejo
 
 * En esta libreria se encuentra la fase del complejo de la forma (a, b) dodne a representa la parte real y b representa la
 parte imaginaria, donde se retorna la fase del complejo
+
+
+![](https://www.google.com/search?q=numeros+complejos&newwindow=1&client=firefox-b-d&sxsrf=ALeKk000v0JJEcCxl3NpvbHPRDWfCDkKMw:1596987820374&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjksvmdu47rAhWol-AKHYa_CPoQ_AUoAXoECBMQAw&biw=1366&bih=693#imgrc=I19-oPCEcU7dNM)
